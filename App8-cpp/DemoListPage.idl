@@ -1,0 +1,8 @@
+namespace App8_cpp
+{
+    [default_interface]
+    runtimeclass DemoListPage : Microsoft.UI.Xaml.Controls.Page
+    {
+        DemoListPage();
+    }
+}

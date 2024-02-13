@@ -1,0 +1,8 @@
+namespace App8_cpp
+{
+    [default_interface]
+    runtimeclass EmptyPage : Microsoft.UI.Xaml.Controls.Page
+    {
+        EmptyPage();
+    }
+}
